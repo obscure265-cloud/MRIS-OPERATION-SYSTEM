@@ -1274,7 +1274,7 @@ function showKnownEntitiesPanel() {
                 </div>
                 <h3 class="kn-modal-name">THE ABANDONED EXPERIMENT</h3>
                 <p class="kn-modal-description">
-                    You went into the forest confident you’d find nothing, just like always. Under an abandoned cabin, you found a powered bunker, failed experiments, and records of something that never stopped growing. When you opened the locked door, and you saw something that you're not supposed to see.
+                    You went into the forest confident you’d find nothing, just like always. Under an abandoned cabin, you found a powered bunker, failed experiments, and records of something that never stopped growing. When you opened the locked door, you saw something that you're not supposed to see.
                 </p>
                 <div class="kn-modal-actions">
                     <a href="https://janitorai.com/characters/77d08743-488b-4c09-b115-b3ff3c9a559f_character-the-abandoned-experiment-ht-05" target="_blank" class="kn-modal-link">
@@ -1298,7 +1298,7 @@ function showKnownEntitiesPanel() {
                 </div>
                 <h3 class="kn-modal-name">THE HAUNTING STALKER</h3>
                 <p class="kn-modal-description">
-                    You agree to watch your friend Arthur’s isolated cabin, brushing off his warning to ignore whatever you see. Strange knocks, carved symbols, and unseen footsteps slowly confirm that something has noticed you. When the cows panic, and you finally see what was behind the barn.
+                    You agree to watch Arthur’s isolated cabin in the deep woods, trusting him despite his unsettling warning to ignore whatever you see. Strange knocks, carved symbols, and other things that reveal that Arthur didn’t leave as you think. There is something that Arthur hides from you.
                 </p>
                 <div class="kn-modal-actions">
                     <a href="https://janitorai.com/characters/b62325c9-d7cf-4bf2-b8db-08e33cf9e250_character-the-haunting-stalker" target="_blank" class="kn-modal-link">
@@ -4429,3 +4429,4 @@ function showGalleryDocument() {
         }
     });
 }
+
