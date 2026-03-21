@@ -1113,7 +1113,7 @@ if (markAndersonModal) {
                 <div class="image-modal" id="subject-doc-modal">
                     <div class="image-modal-content">
                         <span class="close-image-modal">×</span>
-                        <img src="https://files.catbox.moe/yd6biw.png" alt="Subject Document" class="image-modal-img">
+                        <img src="https://files.catbox.moe/dzhn4s.png" alt="Subject Document" class="image-modal-img">
                         <div class="image-modal-caption">Subject (Z) DCF-Document</div>
                     </div>
                 </div>
